@@ -1,0 +1,27 @@
+[
+  {
+    "build-id": "master",
+    "host": "github.com",
+    "repository": "https://github.com/Archrayx/Eden-Master.git"
+  },
+  {
+    "build-id": "pull_request",
+    "host": "github.com",
+    "repository": "https://github.com/Archrayx/Eden-PR.git"
+  },
+  {
+    "build-id": "nightly",
+    "host": "github.com",
+    "repository": "https://github.com/Archrayx/Eden-Nightly.git"
+  },
+  {
+    "build-id": "tag",
+    "host": "github.com",
+    "repository": "https://github.com/Archrayx/Eden-Release.git"
+  },
+  {
+    "build-id": "pgo",
+    "host": "github.com",
+    "repository": "https://github.com/Archrayx/Eden-PGO.git"
+  }
+]
